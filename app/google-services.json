@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124887840981",
+    "firebase_url": "https://smartcontainer-2b456.firebaseio.com",
+    "project_id": "smartcontainer-2b456",
+    "storage_bucket": "smartcontainer-2b456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124887840981:android:ece13dcb419b2053ef4a5c",
+        "android_client_info": {
+          "package_name": "com.example.dwis.smartcontainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124887840981-pg2jikimnk8sbjppol8ubk3jsl16i7jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dwis.smartcontainer",
+            "certificate_hash": "9b00d567168085e7c076cd7fd7c51efd00a5ccb8"
+          }
+        },
+        {
+          "client_id": "124887840981-f5ilec9ps0utelmp0o4m8d975bfhpd4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6W8hMNwS58QFzLiYTDb2hlqc0DI5YNVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124887840981-f5ilec9ps0utelmp0o4m8d975bfhpd4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
